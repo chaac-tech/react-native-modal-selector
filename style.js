@@ -54,8 +54,11 @@ export default StyleSheet.create({
     },
 
     optionStyle: {
-        padding:           PADDING,
+        paddingTop: PADDING,
+        paddingBottom: PADDING,
         borderBottomWidth: 1,
+        paddingLeft: '38%',
+        paddingRight: '38%',
         borderBottomColor: '#ccc',
     },
 
